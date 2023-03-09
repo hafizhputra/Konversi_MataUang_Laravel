@@ -1,0 +1,25 @@
+body{
+    background: rgb(0, 104, 240);
+}
+
+
+
+.card-body{
+
+    margin-top: 3%;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 2%;
+
+}
+
+.card-body h2{
+    padding: 2%;
+}
+
+.table-home {
+    background-color: white;
+    margin-top: 2%;
+    padding: 3%;
+    border-radius: 5px;
+}

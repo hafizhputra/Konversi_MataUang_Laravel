@@ -1,0 +1,10 @@
+body{
+    background: rgb(0, 104, 240);
+}
+.card-body{
+
+    margin-top: 5%;
+    background-color: white;
+    border-radius: 5px;
+
+}
